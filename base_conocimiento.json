@@ -1,0 +1,82 @@
+{
+  "_aviso": "Datos de ejemplo para un proyecto academico. Verificar siempre en registraduria.gov.co antes de usarlos como informacion oficial.",
+  "tramites": [
+    {
+      "nombre": "Cédula de ciudadanía por primera vez",
+      "alias": [
+        "cedula primera vez",
+        "sacar la cedula",
+        "cedula por primera vez",
+        "cedula amarilla"
+      ],
+      "requisitos": [
+        "Tener la edad para solicitar la cédula de ciudadanía (mayor de edad)",
+        "Presentar el registro civil de nacimiento",
+        "Presentar la tarjeta de identidad, si se tiene",
+        "Acudir personalmente para la toma de huellas y fotografía"
+      ],
+      "observaciones": "Confirmar requisitos y costos vigentes en registraduria.gov.co."
+    },
+    {
+      "nombre": "Duplicado de la cédula de ciudadanía",
+      "alias": [
+        "duplicado cedula",
+        "perdi la cedula",
+        "cedula perdida",
+        "copia de la cedula",
+        "cedula robada"
+      ],
+      "requisitos": [
+        "Acudir personalmente a una oficina de la Registraduría",
+        "Validación de identidad mediante huellas dactilares",
+        "Pagar los derechos correspondientes (consultar el valor vigente)"
+      ],
+      "observaciones": "Si fue robada o extraviada, se recomienda conservar la denuncia o constancia si la tiene."
+    },
+    {
+      "nombre": "Tarjeta de identidad",
+      "alias": [
+        "tarjeta de identidad",
+        "ti",
+        "tarjeta identidad menor",
+        "documento de menor"
+      ],
+      "requisitos": [
+        "Presencia del menor acompañado de su representante legal",
+        "Registro civil de nacimiento",
+        "Documento de identidad del representante legal"
+      ],
+      "observaciones": "Confirmar la edad exigida y costos vigentes en registraduria.gov.co."
+    },
+    {
+      "nombre": "Registro civil de nacimiento",
+      "alias": [
+        "registro civil",
+        "registrar un bebe",
+        "registro de nacimiento"
+      ],
+      "requisitos": [
+        "Certificado de nacido vivo",
+        "Documento de identidad de los padres",
+        "Presencia de los padres o del declarante autorizado"
+      ],
+      "observaciones": "Los requisitos pueden variar si los padres no están presentes."
+    },
+    {
+      "nombre": "Copia auténtica del registro civil",
+      "alias": [
+        "copia registro civil",
+        "copia autenticada del registro civil",
+        "copia autentica del registro civil",
+        "copia del registro civil",
+        "registro civil copia autenticada"
+      ],
+      "requisitos": [
+        "Documento de identidad de quien solicita la copia",
+        "Datos del registro: nombre del inscrito, fecha y lugar de nacimiento",
+        "Indicar la oficina o notaría donde se inscribió, si se conoce"
+      ],
+      "observaciones": "Información general de ejemplo. La copia puede solicitarse en la Registraduría o notaría donde se inscribió; verificar en registraduria.gov.co."
+    }
+  ]
+}

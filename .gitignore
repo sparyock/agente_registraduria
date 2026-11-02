@@ -1,0 +1,4 @@
+.env
+citas.json
+__pycache__/
+.venv/
